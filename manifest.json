@@ -1,0 +1,12 @@
+{
+  "name": "Pavlov's Notification",
+  "version": "1.2",
+  "description": "Stupid Shit No One Needs and Terrible Ideas Hackathon",
+  "background": {
+    "scripts": ["bg.js"]
+  },
+  "options_page": "options.html",
+  "icons": { "128": "icon.png" },
+  "permissions": [],
+  "manifest_version": 2
+}
